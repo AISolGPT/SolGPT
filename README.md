@@ -1,5 +1,5 @@
 ﻿# SolGPT
-# CA：2935yaPys2JN7qk1uw8FRD7iuZkWUS3MHARAHNGGpump
+# CA：
 # X：x.com/SolGPT_ 
 <img width="1321" alt="image" src="https://github.com/user-attachments/assets/fe53c6a0-a68b-4de1-ad53-4e2840f3e5da" />
 
