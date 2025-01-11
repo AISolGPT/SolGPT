@@ -1,8 +1,11 @@
 ﻿# SolGPT
 # CA：
 # X：x.com/SolGPT_ 
+<img width="1321" alt="image" src="https://github.com/user-attachments/assets/fe53c6a0-a68b-4de1-ad53-4e2840f3e5da" />
+
 ## Overview
 **SolGPT** is an AI-powered token generator on the Solana blockchain.
+<img width="1248" alt="image" src="https://github.com/user-attachments/assets/9e0cb796-60e4-48ae-988f-1693e93b11d6" />
 
 ## Features
 - **AI Guidance**: Walkthroughs and suggestions for creating and managing your Solana tokens.
