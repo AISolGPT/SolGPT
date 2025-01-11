@@ -1,6 +1,6 @@
 ﻿# SolGPT
 # CA：
-# X：https://x.com/SolGPT_
+# X：x.com/SolGPT_
 ## Overview
 **SolGPT** is an AI-powered token generator on the Solana blockchain.
 
